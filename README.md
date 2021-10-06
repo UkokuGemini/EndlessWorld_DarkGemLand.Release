@@ -2,10 +2,9 @@
 Release
 
 ##  **发布版本：**
-
+    3.7.2.223(代号:椰子树)
 ### Application:Game MainForm
-    DGL_Rise(暂名)
-    后期更改为EndlessWorld_DarkGemLand
+    EndlessWorld_DarkGemLand
 ### DataBase数据库   
     DGL.Data.db
 ### Updater 版本更新软件
