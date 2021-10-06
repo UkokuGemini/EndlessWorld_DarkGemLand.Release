@@ -9,7 +9,7 @@ Release
     DGL.Data.db
 ### Updater 版本更新软件
     Updater-EndlessWorld_DarkGemLand.exe
-    Version1.0.0.6（Confirm）
+    Version1.0.0.7（Confirm）
 ### SQLITE.DLL 数据库组件   
     System.Data.SQLite.dll
     SQLite.Interop.dll
