@@ -37,8 +37,8 @@
     - [官方页面](http://system.data.sqlite.org/index.html/doc/trunk/www/downloads.wiki) & 
     [下载链接](http://system.data.sqlite.org/downloads/1.0.115.5/sqlite-netFx46-static-binary-Win32-2015-1.0.115.5.zip)
 
-   - 我的GitHub拷贝:[SQLite.Interop.dll](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/Sql.Dll/SQLite.Interop.dll)  &
-[System.Data.SQLite.dll](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/Sql.Dll/System.Data.SQLite.dll).
+   - [我的GitHub拷贝](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/tree/MainBranches/Dll):([SQLite.Interop.dll](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/blob/MainBranches/Dll/SQLite.Interop.dll)  &
+[System.Data.SQLite.dll](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/blob/MainBranches/Dll/System.Data.SQLite.dll)).
 
 ----------
 
