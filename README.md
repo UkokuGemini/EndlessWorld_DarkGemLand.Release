@@ -76,7 +76,7 @@
 
 特别感谢以下贡献者：
 - PSY
-- SUNSHINE
+- [SUNSHINE](https://github.com/sunshineyg)
 ---
 ## **捐赠**
 
