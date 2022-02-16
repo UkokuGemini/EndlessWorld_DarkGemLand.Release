@@ -1,6 +1,6 @@
 # <center> EndlessWorld_DarkGemLand [Version3.8.2.257]</center>
 
-<center><img alt="lOGO" src="./ReadmeImage/Logotitle.jpg" width="700"></center>
+<center><img src="https://github.com/UkokuGemini/UkokuGemini.github.io/blob/MainBranches/img/EndlessWorld_DarkGemLand/ReadMeLogo.JPG?raw=true" width="700"></center>
 
 ## **游戏**
 
@@ -34,11 +34,10 @@
 
     需要 `SQLite.Interop.dll ` & `System.Data.SQLite.dll `两个运行库(32位).
 
-    - [官方页面](http://system.data.sqlite.org/index.html/doc/trunk/www/downloads.wiki) & 
-    [下载链接](http://system.data.sqlite.org/downloads/1.0.115.5/sqlite-netFx46-static-binary-Win32-2015-1.0.115.5.zip)
+    - [官方页面](http://system.data.sqlite.org/index.html/doc/trunk/www/downloads.wiki) (因新版本链接库不支持PassWord关键字,请使用`Ver1.0.112.0`版本链接库.)
 
-   - [我的GitHub拷贝](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/tree/MainBranches/Dll):([SQLite.Interop.dll](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/blob/MainBranches/Dll/SQLite.Interop.dll)  &
-[System.Data.SQLite.dll](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/blob/MainBranches/Dll/System.Data.SQLite.dll)).
+    - [我的GitHub拷贝](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/tree/MainBranches/Dll):([SQLite.Interop.dll](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/blob/MainBranches/Dll/SQLite.Interop.dll)  &
+[System.Data.SQLite.dll](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/blob/MainBranches/Dll/System.Data.SQLite.dll)). - `Ver1.0.112.0`
 
 ----------
 
