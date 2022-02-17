@@ -1,4 +1,4 @@
-# <center> EndlessWorld_DarkGemLand [Version3.8.2.257]</center>
+# <center> EndlessWorld_DarkGemLand [Version3.9.0.310]</center>
 
 <center><img src="https://github.com/UkokuGemini/UkokuGemini.github.io/blob/MainBranches/img/EndlessWorld_DarkGemLand/ReadMeLogo.JPG?raw=true" width="700"></center>
 
@@ -62,21 +62,34 @@
 ---
 
 ## **Release**
+
 ###  `最新发布版本`
-**3.7.2.223(代号:椰子树)**
+
+**#3.9.0.310(代号:酸菜鱼)**
+
+#### 简要更新日志`[2022-2-17]`
+
+>重写AutoUpdate.exe替换Updater.exe实现软件内自动更新重启游戏.
+
+#### 文件一览
+
 >Application（EndlessWorld_DarkGemLand.exe）
 >
->DataBase数据库(DGL.Data.db)
+>DataBase数据库(EndlessWorld_DarkGemLand.Data.db)
 >
->Updater 版本更新软件(Updater-EndlessWorld_DarkGemLand.exe[Version1.0.0.7])
+>AutoUpdate版本更新软件(AutoUpdate-EndlessWorld_DarkGemLand.exe)
 >
->SQLite.DLL数据库组件(System.Data.SQLite.dll&SQLite.Interop.dll)
+>SQLite.DLL数据库组件(System.Data.SQLite.dll&SQLite.Interop.dll)`Ver1.0.112.0`
+
 ---
 ## **特别感谢**
 
 特别感谢以下贡献者：
+
 - PSY
+
 - [SUNSHINE](https://github.com/sunshineyg)
+
 ---
 ## **捐赠**
 
