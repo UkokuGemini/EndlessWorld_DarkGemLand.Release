@@ -1,4 +1,4 @@
-# <center> EndlessWorld_DarkGemLand [Version3.9.0.310]</center>
+# <center> EndlessWorld_DarkGemLand [Version4.0.0.365]</center>
 
 <center><img src="https://github.com/UkokuGemini/UkokuGemini.github.io/blob/MainBranches/img/EndlessWorld_DarkGemLand/ReadMeLogo.JPG?raw=true" width="700"></center>
 
@@ -65,11 +65,13 @@
 
 ###  `最新发布版本`
 
-**#3.9.0.310(代号:酸菜鱼)**
+**#4.0.0.365(暖风机)**
 
-#### 简要更新日志`[2022-2-17]`
+#### 简要更新日志`[2022-2-24]`
 
->重写AutoUpdate.exe替换Updater.exe实现软件内自动更新重启游戏.
+>提供稳定版本.新增种族、职业、技能数据(部分实装).
+>实装部分(牧师[治疗]、战士[战吼])技能效果.
+>优化战斗日志.
 
 #### 文件一览
 
