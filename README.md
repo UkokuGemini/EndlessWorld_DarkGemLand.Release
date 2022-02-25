@@ -69,9 +69,11 @@
 
 #### 简要更新日志`[2022-2-24]`
 
->提供稳定版本.新增种族、职业、技能数据(部分实装).
+>提供稳定版本.
 >
->实装部分(牧师[治疗]、战士[战吼])技能效果.
+>新增种族、职业、技能数据(部分实装).
+>
+>实装部分：牧师[治疗]、战士[战吼]技能效果.
 >
 >优化战斗日志.
 
@@ -83,7 +85,7 @@
 >
 >AutoUpdate版本更新软件(AutoUpdate-EndlessWorld_DarkGemLand.exe)
 >
->SQLite.DLL数据库组件(System.Data.SQLite.dll&SQLite.Interop.dll)`Ver1.0.112.0`
+>SQLite.DLL数据库组件(System.Data.SQLite.dll & SQLite.Interop.dll)*Ver1.0.112.0*
 
 ---
 ## **特别感谢**
