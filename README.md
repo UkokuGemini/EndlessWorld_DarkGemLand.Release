@@ -85,7 +85,7 @@
 >
 >AutoUpdate版本更新软件(AutoUpdate-EndlessWorld_DarkGemLand.exe)
 >
->SQLite.DLL数据库组件(System.Data.SQLite.dll & SQLite.Interop.dll)*Ver1.0.112.0*
+>SQLite.DLL数据库组件(System.Data.SQLite.dll & SQLite.Interop.dll)<sub>`Ver1.0.112`</sub>
 
 ---
 ## **特别感谢**
