@@ -1,6 +1,6 @@
 # <center> EndlessWorld_DarkGemLand [Version4.0.0.365]</center>
 
-<center><img src="https://github.com/UkokuGemini/UkokuGemini.github.io/blob/MainBranches/img/EndlessWorld_DarkGemLand/ReadMeLogo.JPG?raw=true" width="700"></center>
+<center><img src="https://github.com/UkokuGemini/UkokuGemini.github.io/blob/MainBranches/img/EndlessWorld_DarkGemLand/ReadMeLogo.JPG?raw=true" width="400"></center>
 
 ## **游戏**
 
