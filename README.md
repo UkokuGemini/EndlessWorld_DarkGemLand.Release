@@ -1,4 +1,4 @@
-# <center> EndlessWorld_DarkGemLand [Version4.0.0.365]</center>
+# <center> EndlessWorld_DarkGemLand [Version4.1.0.389]</center>
 
 <center><img src="https://github.com/UkokuGemini/UkokuGemini.github.io/blob/MainBranches/img/EndlessWorld_DarkGemLand/ReadMeLogo.png?raw=true" width="400"></center>
 
@@ -67,23 +67,19 @@
 
 ###  `最新发布版本`
 
-**#4.0.0.365(暖风机)**
+**#4.1.0.389(暖风机)**
 
-#### 简要更新日志`[2022-2-24]`
+#### 简要更新日志`[2022-3-3]`
 
->提供稳定版本.
->
->新增种族、职业、技能数据(部分实装).
->
->实装部分：牧师[治疗]、战士[战吼]技能效果.
->
->优化战斗日志.
+>系统数据库与用户存档分离
 
 #### 文件一览
 
 >Application（EndlessWorld_DarkGemLand.exe）
 >
->DataBase数据库(EndlessWorld_DarkGemLand.Data.db)
+>DataBase系统数据库(EndlessWorld_DarkGemLand.SysData.db)
+>
+>>DataBase用户数据库存档(EndlessWorld_DarkGemLand.UserData.db)
 >
 >AutoUpdate版本更新软件(AutoUpdate-EndlessWorld_DarkGemLand.exe)
 >
