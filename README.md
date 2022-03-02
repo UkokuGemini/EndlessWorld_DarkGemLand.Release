@@ -39,6 +39,8 @@
     - [我的GitHub拷贝](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/tree/MainBranches/Dll):([SQLite.Interop.dll](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/blob/MainBranches/Dll/SQLite.Interop.dll)  &
 [System.Data.SQLite.dll](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/blob/MainBranches/Dll/System.Data.SQLite.dll)). - `Ver1.0.112.0`
 
+##### Windows7系统部分文字缺失问题解决方案
+ - [更新Windows补丁包Windows6.1-KB2729094-v2-x64](https://support.microsoft.com/zh-cn/topic/%E7%8E%B0%E6%8F%90%E4%BE%9B%E5%AF%B9-windows-7-%E5%92%8C-windows-server-2008-r2-%E4%B8%AD-segoe-ui-%E7%AC%A6%E5%8F%B7%E5%AD%97%E4%BD%93%E7%9A%84%E6%9B%B4%E6%96%B0-0743a473-3afe-e8b2-7c20-54aa430463d6)
 ----------
 
 ## **帮助&支持**
@@ -100,4 +102,5 @@
 ## **捐赠**
 
 - NoNeed
+---
 ---
