@@ -1,4 +1,4 @@
-# <center> EndlessWorld_DarkGemLand [Version4.1.0.389]</center>
+# <center> EndlessWorld_DarkGemLand [Version4.1.4.445]</center>
 
 <center><img src="https://github.com/UkokuGemini/UkokuGemini.github.io/blob/MainBranches/img/EndlessWorld_DarkGemLand/ReadMeLogo.png?raw=true" width="400"></center>
 
@@ -36,8 +36,7 @@
 
     - [官方页面](http://system.data.sqlite.org/index.html/doc/trunk/www/downloads.wiki) (因新版本链接库不支持PassWord关键字,请使用`Ver1.0.112.0`版本链接库.)
 
-    - [我的GitHub拷贝](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/tree/MainBranches/Dll):([SQLite.Interop.dll](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/blob/MainBranches/Dll/SQLite.Interop.dll)  &
-[System.Data.SQLite.dll](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/blob/MainBranches/Dll/System.Data.SQLite.dll)). - `Ver1.0.112.0`
+    - [我的GitHub拷贝](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/tree/MainBranches/Dll):([SQLite.Interop.dll](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/blob/MainBranches/Dll/SQLite.Interop.dll)  & [System.Data.SQLite.dll](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/blob/MainBranches/Dll/System.Data.SQLite.dll)). - `Ver1.0.112.0`
 
 ##### Windows7系统部分文字缺失问题解决方案
  - [更新Windows补丁包Windows6.1-KB2729094-v2-x64](https://support.microsoft.com/zh-cn/topic/%E7%8E%B0%E6%8F%90%E4%BE%9B%E5%AF%B9-windows-7-%E5%92%8C-windows-server-2008-r2-%E4%B8%AD-segoe-ui-%E7%AC%A6%E5%8F%B7%E5%AD%97%E4%BD%93%E7%9A%84%E6%9B%B4%E6%96%B0-0743a473-3afe-e8b2-7c20-54aa430463d6)
@@ -64,22 +63,26 @@
 ---
 
 ## **Release**
+###  `最新发布稳定版本` **#4.1.0.389(暖风机)**
+###  `最新发布版本` **#4.1.4.445(暖风机)**
+ -  简要重要更新日志 ->`[2022-3-20]`
 
-###  `最新发布版本`
+1. 种族功能[突破/变异/重置]
+2. 图书馆WIki
+3. 管家招募功能
+4. 神社Buff功能*
+5. 住宅近期消息提醒
+6. 冒险区域名称显示
+7. 银行UI重做并合并进入商店
+8. 锻造功能合并进入住宅仓库
 
-**#4.1.0.389(暖风机)**
-
-#### 简要更新日志`[2022-3-3]`
-
->系统数据库与用户存档分离
-
-#### 文件一览
+ - 文件一览
 
 >Application（EndlessWorld_DarkGemLand.exe）
 >
 >DataBase系统数据库(EndlessWorld_DarkGemLand.SysData.db)
 >
->>DataBase用户数据库存档(EndlessWorld_DarkGemLand.UserData.db)
+>DataBase用户数据库存档(EndlessWorld_DarkGemLand.UserData.db)
 >
 >AutoUpdate版本更新软件(AutoUpdate-EndlessWorld_DarkGemLand.exe)
 >
