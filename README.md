@@ -1,4 +1,4 @@
-# <center> EndlessWorld_DarkGemLand [Version4.1.4.445]</center>
+# <center> EndlessWorld_DarkGemLand [Version4.1.6.467]</center>
 
 <center><img src="https://github.com/UkokuGemini/UkokuGemini.github.io/blob/MainBranches/img/EndlessWorld_DarkGemLand/ReadMeLogo.png?raw=true" width="400"></center>
 
@@ -63,18 +63,13 @@
 ---
 
 ## **Release**
-###  `最新发布稳定版本` **#4.1.0.389(暖风机)**
-###  `最新发布版本` **#4.1.4.445(暖风机)**
- -  简要重要更新日志 ->`[2022-3-20]`
+###  `最新发布版本` **#4.1.6.467(小馄饨暨两周年版本)**
+###  `最新发布版本` **#4.1.6.467(小馄饨暨两周年版本)**
+ -  简要重要更新日志 ->`[2022-3-26]`
 
-1. 种族功能[突破/变异/重置]
-2. 图书馆WIki
-3. 管家招募功能
-4. 神社Buff功能*
-5. 住宅近期消息提醒
-6. 冒险区域名称显示
-7. 银行UI重做并合并进入商店
-8. 锻造功能合并进入住宅仓库
+4.1.6
+现在可以实现自动冒险前领取一次神社祝福.
+(稳定版本:小馄饨)
 
  - 文件一览
 
