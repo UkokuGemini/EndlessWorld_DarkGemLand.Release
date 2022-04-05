@@ -1,4 +1,4 @@
-# <center> EndlessWorld_DarkGemLand [Version4.1.6.467]</center>
+# <center> EndlessWorld_DarkGemLand [Version4.1.7.493]</center>
 
 <center><img src="https://github.com/UkokuGemini/UkokuGemini.github.io/blob/MainBranches/img/EndlessWorld_DarkGemLand/ReadMeLogo.png?raw=true" width="400"></center>
 
@@ -63,13 +63,12 @@
 ---
 
 ## **Release**
-###  `最新发布版本` **#4.1.6.467(小馄饨暨两周年版本)**
-###  `最新发布版本` **#4.1.6.467(小馄饨暨两周年版本)**
- -  简要重要更新日志 ->`[2022-3-26]`
+###  `稳定发布版本` **#4.1.6.467(小馄饨暨两周年版本)**
+###  `最新发布版本` **#4.1.7.493**
+ -  简要重要更新日志 ->`[2022-4-5]`
 
-4.1.6
-现在可以实现自动冒险前领取一次神社祝福.
-(稳定版本:小馄饨)
+    - 4.1.7
+赌场装修竣工营业啦.
 
  - 文件一览
 
