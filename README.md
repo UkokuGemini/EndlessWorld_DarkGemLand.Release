@@ -1,4 +1,4 @@
-# <center> EndlessWorld_DarkGemLand [Version4.1.7.493]</center>
+# <center> EndlessWorld_DarkGemLand [Version4.1.8.503]</center>
 
 <center><img src="https://github.com/UkokuGemini/UkokuGemini.github.io/blob/MainBranches/img/EndlessWorld_DarkGemLand/ReadMeLogo.png?raw=true" width="400"></center>
 
@@ -64,11 +64,15 @@
 
 ## **Release**
 ###  `稳定发布版本` **#4.1.6.467(小馄饨暨两周年版本)**
-###  `最新发布版本` **#4.1.7.493**
- -  简要重要更新日志 ->`[2022-4-5]`
+###  `最新发布版本` **#4.1.8.503**
+ -  简要重要更新日志 ->`[2022-4-20]`
 
-    - 4.1.7
-赌场装修竣工营业啦.
+4.1.8
+现在可以在神社净化负面效果.
+更醒目的隐藏地点倒计时.
+技能拥有不同的继续攻击或继续施法特点.
+旅途将会出现陷阱、迷宫、和旅站.
+英雄现在可以锁定，锁定后英雄将不再离开.
 
  - 文件一览
 
