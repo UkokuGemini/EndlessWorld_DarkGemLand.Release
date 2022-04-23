@@ -1,4 +1,4 @@
-# <center> EndlessWorld_DarkGemLand [Version4.1.8.503]</center>
+# <center> EndlessWorld_DarkGemLand [Version4.2.1.523]</center>
 
 <center><img src="https://github.com/UkokuGemini/UkokuGemini.github.io/blob/MainBranches/img/EndlessWorld_DarkGemLand/ReadMeLogo.png?raw=true" width="400"></center>
 
@@ -64,8 +64,8 @@
 
 ## **Release**
 ###  `稳定发布版本` **#4.1.6.467(小馄饨暨两周年版本)**
-###  `最新发布版本` **#4.1.8.503**
- -  简要重要更新日志 ->`[2022-4-20]`
+###  `最新发布版本` **#4.2.1.523**
+ -  简要重要更新日志 ->`[2022-4-24]`
 
 4.1.8
 现在可以在神社净化负面效果.
@@ -73,6 +73,13 @@
 技能拥有不同的继续攻击或继续施法特点.
 旅途将会出现陷阱、迷宫、和旅站.
 英雄现在可以锁定，锁定后英雄将不再离开.
+4.2.0
+增加冒险武器、基因碎片、黑石掉落.
+修改SP点数获得机制.
+4.2.1
+实装技能(祝福、驱逐、惩戒、威吓)
+新增简略的实时属性显示.
+增加持续技能显示状态.
 
  - 文件一览
 
