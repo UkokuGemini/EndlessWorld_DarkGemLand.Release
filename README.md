@@ -19,7 +19,7 @@
 城镇冈托斯多的周围近期出现了越来越多的魔物，国王颁布讨伐令很久，勇士们争相出城，而你无论战胜还是战败，总能安全归城，成为这座城市不死的神话，城市的人奉你为英雄。
 而只有你知道，魔物变异的形势愈发严峻，你不断变强的渴望也越发强烈...
 
-----------
+***
 
 ## **使用手册**
 
@@ -40,7 +40,8 @@
 
 ##### Windows7系统部分文字缺失问题解决方案
  - [更新Windows补丁包Windows6.1-KB2729094-v2-x64](https://support.microsoft.com/zh-cn/topic/%E7%8E%B0%E6%8F%90%E4%BE%9B%E5%AF%B9-windows-7-%E5%92%8C-windows-server-2008-r2-%E4%B8%AD-segoe-ui-%E7%AC%A6%E5%8F%B7%E5%AD%97%E4%BD%93%E7%9A%84%E6%9B%B4%E6%96%B0-0743a473-3afe-e8b2-7c20-54aa430463d6)
-----------
+
+***
 
 ## **帮助&支持**
 
@@ -60,7 +61,7 @@
 
 [Apache License 2.0](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/blob/MainBranches/LICENSE)
 
----
+***
 
 ## **Release**
 ###  `稳定发布版本` **#4.1.6.467(小馄饨暨两周年版本)**
@@ -96,7 +97,7 @@
 >
 >SQLite.DLL数据库组件(System.Data.SQLite.dll & SQLite.Interop.dll)<sub>`Ver1.0.112`</sub>
 
----
+***
 ## **特别感谢**
 
 特别感谢以下贡献者：
@@ -105,9 +106,10 @@
 
 - [SUNSHINE](https://github.com/sunshineyg)
 
----
+***
 ## **捐赠**
 
 - NoNeed
----
----
+
+***
+***
