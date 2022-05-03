@@ -1,4 +1,4 @@
-# <center> EndlessWorld_DarkGemLand [Ver4.2.4.544]</center>
+# <center> EndlessWorld_DarkGemLand [Ver4.2.5.553]</center>
 
 <center><img src="https://github.com/UkokuGemini/UkokuGemini.github.io/blob/MainBranches/img/EndlessWorld_DarkGemLand/ReadMeLogo.png?raw=true" width="400"></center>
 
@@ -65,16 +65,16 @@
 
 ## **Release**
 #### `稳定发布版本` **#Ver4.1.6.467(小馄饨暨两周年版本)**
-#### `最新开发版本` **#Ver4.2.4.544**<sub>[2022-4-29]</sub>
+#### `最新开发版本` **#Ver4.2.5.553**<sub>[2022-5-3]</sub>
 
 - 简要更新日志:  
 
 ```
-Ver4.2.4.544
- - 增添一个手动关闭怪物信息面板的按钮
- - 增添一个英雄更名的功能(需要在雇佣管家的情况下使用)
- - 修复学习技能后技能点数未实时变化的显示问题
- - 优化<u>持续性技能</u>的代码和显示(包含<u>双向</u>作用的持续技能)
+Ver4.2.5
+-   新增叠加技能显示.(显示技能叠加了多少次数)
+-   实装技能(战斗技巧/多重箭矢/瞄准/穿透/专注)
+-   完成某些Buff技能,暂存,在一定条件触发并消耗的机制
+-   消耗性技能战斗日志显示
 ```
 
  - 文件一览
