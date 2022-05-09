@@ -93,16 +93,14 @@
 
 文件一览
 
->Application（EndlessWorld_DarkGemLand.exe）
->
->DataBase系统数据库(EndlessWorld_DarkGemLand.SysData.db)
->
->DataBase用户数据库存档(EndlessWorld_DarkGemLand.UserData.db)
->
->AutoUpdate版本更新软件(AutoUpdate-EndlessWorld_DarkGemLand.exe)
->
->SQLite.DLL数据库组件(System.Data.SQLite.dll & SQLite.Interop.dll)<sub>`Ver1.0.112`</sub>
-
+![repo size](https://img.shields.io/github/repo-size/ukokugemini/EndlessWorld_DarkGemLand-Release)
+ - 游戏主体文件![EndlessWorld_DarkGemLand.exe size](https://img.shields.io/github/size/UkokuGemini/EndlessWorld_DarkGemLand-Release/Release/EndlessWorld_DarkGemLand.exe?label=EndlessWorld_DarkGemLand.exe)
+ - DataBase系统数据库![EndlessWorld_DarkGemLand.SysData.db size](https://img.shields.io/github/size/UkokuGemini/EndlessWorld_DarkGemLand-Release/Release/EndlessWorld_DarkGemLand.SysData.db?label=EndlessWorld_DarkGemLand.SysData.db)
+ - DataBase用户数据库存档![EndlessWorld_DarkGemLand.UserData.db size](https://img.shields.io/github/size/UkokuGemini/EndlessWorld_DarkGemLand-Release/Release/EndlessWorld_DarkGemLand.UserData.db?label=EndlessWorld_DarkGemLand.UserData.db)
+ - SQLite.DLL数据库组件
+	 - ![SQLite.Interop.dll size](https://img.shields.io/github/size/UkokuGemini/EndlessWorld_DarkGemLand-Release/Release/SQLite.Interop.dll?label=SQLite.Interop.dll)
+	 - ![System.Data.SQLite.dll size](https://img.shields.io/github/size/UkokuGemini/EndlessWorld_DarkGemLand-Release/Release/System.Data.SQLite.dll?label=System.Data.SQLite.dll)<sub>Ver1.0.112</sub>
+ - AutoUpdate版本更新软件![AutoUpdate-EndlessWorld_DarkGemLand.exe size](https://img.shields.io/github/size/UkokuGemini/EndlessWorld_DarkGemLand-Release/Release/AutoUpdate-EndlessWorld_DarkGemLand.exe?label=AutoUpdate-EndlessWorld_DarkGemLand.exe)
 ***
 ## **特别感谢**
 
