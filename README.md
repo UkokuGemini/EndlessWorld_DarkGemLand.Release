@@ -34,8 +34,12 @@
 ***
 
 ## **使用手册**
+### `开发工具` 
+使用VisualStudio 2022 VB.net语言
 
-### `平台&运行库`
+![visualstudio](https://badgen.net/badge/visualstudio/2022/cyan?icon=visualstudio)![visualstudio](https://badgen.net/badge/visualstudio/VB.Net/cyan?icon=visualstudio)
+### `平台&运行库` 
+![Windows](https://badgen.net/badge/Windows/建议10+/black?icon=windows)![Framework](https://badgen.net/badge/Framework/4.7.2+/black)![Sqlite](https://badgen.net/badge/Sqlite/1.0.112.0/orange)
 
 - 你至少需要Windows系统下`FrameWork4.7.2`.
 
