@@ -11,7 +11,7 @@
 
 ![watchers](https://badgen.net/github/watchers/UkokuGemini/EndlessWorld_DarkGemLand-Release)
 ![stars](https://badgen.net/github/stars/UkokuGemini/EndlessWorld_DarkGemLand-Release)
-![assets-dl(Download)](https://badgen.net/github/assets-dl/UkokuGemini/EndlessWorld_DarkGemLand-Release)
+![assets-dl(Download)](https://badgen.net/github/assets-dl/UkokuGemini/EndlessWorld_DarkGemLand-Release/)
 ![forks](https://badgen.net/github/forks/UkokuGemini/EndlessWorld_DarkGemLand-Release)
 
 ## **游戏**
@@ -39,7 +39,7 @@
 
 ![visualstudio](https://badgen.net/badge/visualstudio/2022/cyan?icon=visualstudio)![visualstudio](https://badgen.net/badge/visualstudio/VB.Net/cyan?icon=visualstudio)
 ### `平台&运行库` 
-![Windows](https://badgen.net/badge/Windows/建议10+/black?icon=windows)![Framework](https://badgen.net/badge/Framework/4.7.2+/black)![Sqlite](https://badgen.net/badge/Sqlite/1.0.112.0/orange)
+![Windows](https://badgen.net/badge/Windows/建议10+/black?icon=windows)![Framework](https://badgen.net/badge/Framework/4.7.2+/black)![Sqlite](https://badgen.net/badge/Sqlite/1.0.112.0/black)
 
 - 你至少需要Windows系统下`FrameWork4.7.2`.
 
@@ -94,13 +94,13 @@
 文件一览
 
 ![repo size](https://img.shields.io/github/repo-size/ukokugemini/EndlessWorld_DarkGemLand-Release)
- - 游戏主体文件![EndlessWorld_DarkGemLand.exe size](https://img.shields.io/github/size/UkokuGemini/EndlessWorld_DarkGemLand-Release/Release/EndlessWorld_DarkGemLand.exe?label=EndlessWorld_DarkGemLand.exe)
- - DataBase系统数据库![EndlessWorld_DarkGemLand.SysData.db size](https://img.shields.io/github/size/UkokuGemini/EndlessWorld_DarkGemLand-Release/Release/EndlessWorld_DarkGemLand.SysData.db?label=EndlessWorld_DarkGemLand.SysData.db)
- - DataBase用户数据库存档![EndlessWorld_DarkGemLand.UserData.db size](https://img.shields.io/github/size/UkokuGemini/EndlessWorld_DarkGemLand-Release/Release/EndlessWorld_DarkGemLand.UserData.db?label=EndlessWorld_DarkGemLand.UserData.db)
+ - 游戏主体文件![EndlessWorld_DarkGemLand.exe size](https://img.shields.io/github/size/UkokuGemini/EndlessWorld_DarkGemLand-Release/Release/EndlessWorld_DarkGemLand.exe?color=yellow&label=EndlessWorld_DarkGemLand.exe)
+ - DataBase系统数据库![EndlessWorld_DarkGemLand.SysData.db size](https://img.shields.io/github/size/UkokuGemini/EndlessWorld_DarkGemLand-Release/Release/EndlessWorld_DarkGemLand.SysData.db?color=yellow&label=EndlessWorld_DarkGemLand.SysData.db)
+ - DataBase用户数据库存档![EndlessWorld_DarkGemLand.UserData.db size](https://img.shields.io/github/size/UkokuGemini/EndlessWorld_DarkGemLand-Release/Release/EndlessWorld_DarkGemLand.UserData.db?color=yellow&label=EndlessWorld_DarkGemLand.UserData.db)
  - SQLite.DLL数据库组件
-	 - ![SQLite.Interop.dll size](https://img.shields.io/github/size/UkokuGemini/EndlessWorld_DarkGemLand-Release/Release/SQLite.Interop.dll?label=SQLite.Interop.dll)
-	 - ![System.Data.SQLite.dll size](https://img.shields.io/github/size/UkokuGemini/EndlessWorld_DarkGemLand-Release/Release/System.Data.SQLite.dll?label=System.Data.SQLite.dll)<sub>Ver1.0.112</sub>
- - AutoUpdate版本更新软件![AutoUpdate-EndlessWorld_DarkGemLand.exe size](https://img.shields.io/github/size/UkokuGemini/EndlessWorld_DarkGemLand-Release/Release/AutoUpdate-EndlessWorld_DarkGemLand.exe?label=AutoUpdate-EndlessWorld_DarkGemLand.exe)
+	 - ![SQLite.Interop.dll size](https://img.shields.io/github/size/UkokuGemini/EndlessWorld_DarkGemLand-Release/Release/SQLite.Interop.dll?color=yellow&label=SQLite.Interop.dll)
+	 - ![System.Data.SQLite.dll size](https://img.shields.io/github/size/UkokuGemini/EndlessWorld_DarkGemLand-Release/Release/System.Data.SQLite.dll?color=yellow&label=System.Data.SQLite.dll)<sub>Ver1.0.112</sub>
+ - AutoUpdate版本更新软件![AutoUpdate-EndlessWorld_DarkGemLand.exe size](https://img.shields.io/github/size/UkokuGemini/EndlessWorld_DarkGemLand-Release/Release/AutoUpdate-EndlessWorld_DarkGemLand.exe?color=yellow&label=AutoUpdate-EndlessWorld_DarkGemLand.exe)
 ***
 ## **特别感谢**
 
