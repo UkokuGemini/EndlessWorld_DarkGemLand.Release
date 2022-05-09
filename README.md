@@ -9,10 +9,10 @@
 ![tags](https://badgen.net/github/tags/UkokuGemini/EndlessWorld_DarkGemLand-Release)
 ![issues](https://badgen.net/github/issues/UkokuGemini/EndlessWorld_DarkGemLand-Release)
 
-![watchers](https://badgen.net/github/watchers/UkokuGemini/EndlessWorld_DarkGemLand-Release)
-![stars](https://badgen.net/github/stars/UkokuGemini/EndlessWorld_DarkGemLand-Release)
-![assets-dl(Download)](https://badgen.net/github/assets-dl/UkokuGemini/EndlessWorld_DarkGemLand-Release/)
-![forks](https://badgen.net/github/forks/UkokuGemini/EndlessWorld_DarkGemLand-Release)
+![watchers](https://badgen.net/github/watchers/UkokuGemini/EndlessWorld_DarkGemLand-Release?color=green)
+![stars](https://badgen.net/github/stars/UkokuGemini/EndlessWorld_DarkGemLand-Release?color=green)
+![assets-dl(Download)](https://badgen.net/github/assets-dl/UkokuGemini/EndlessWorld_DarkGemLand-Release?color=green)
+![forks](https://badgen.net/github/forks/UkokuGemini/EndlessWorld_DarkGemLand-Release?color=green)
 
 ## **游戏**
 
@@ -83,7 +83,9 @@
 [![stable-release](https://badgen.net/github/release/UkokuGemini/EndlessWorld_DarkGemLand-Release/stable/)](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/tag/Version4.1.6(%E5%B0%8F%E9%A6%84%E9%A5%A8))
 #### 🔰`最新开发版本`
 ![last-release](https://badgen.net/badge/release/Version4.2.6[2022-5-9])
-![last-mommit](https://badgen.net/github/last-commit/UkokuGemini/EndlessWorld_DarkGemLand-Release/MainBranches)
+![last-commit](https://img.shields.io/github/last-commit/UkokuGemini/EndlessWorld_DarkGemLand-Release/MainBranches?color=orange)<script>
+![last-commit](https://badgen.net/github/last-commit/UkokuGemini/EndlessWorld_DarkGemLand-Release/MainBranches)
+</script>
 ```
 🌐简要更新日志: 
  - 实装技能(上帝之手/恶魔之绊/无中生有/贪得无厌/
