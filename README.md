@@ -83,9 +83,8 @@
 [![stable-release](https://badgen.net/github/release/UkokuGemini/EndlessWorld_DarkGemLand-Release/stable/)](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/tag/Version4.1.6(%E5%B0%8F%E9%A6%84%E9%A5%A8))
 #### 🔰`最新开发版本`
 ![last-release](https://badgen.net/badge/release/Version4.2.6[2022-5-9])
-![last-commit](https://img.shields.io/github/last-commit/UkokuGemini/EndlessWorld_DarkGemLand-Release/MainBranches?color=orange)<script>
-![last-commit](https://badgen.net/github/last-commit/UkokuGemini/EndlessWorld_DarkGemLand-Release/MainBranches)
-</script>
+![last-commit](https://img.shields.io/github/last-commit/UkokuGemini/EndlessWorld_DarkGemLand-Release/MainBranches?color=orange)
+
 ```
 🌐简要更新日志: 
  - 实装技能(上帝之手/恶魔之绊/无中生有/贪得无厌/
