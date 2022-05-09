@@ -82,18 +82,13 @@
 #### 🔰`稳定发布版本` 
 [![stable-release](https://badgen.net/github/release/UkokuGemini/EndlessWorld_DarkGemLand-Release/stable/)](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/tag/Version4.1.6(%E5%B0%8F%E9%A6%84%E9%A5%A8))
 #### 🔰`最新开发版本`
-![last-release](https://badgen.net/badge/release/Version4.3.6[2022-5-8])
+![last-release](https://badgen.net/badge/release/Version4.2.6[2022-5-9])
 ![last-mommit](https://badgen.net/github/last-commit/UkokuGemini/EndlessWorld_DarkGemLand-Release/MainBranches)
 ```
-Ver4.2.5简要更新日志: 
--   新增叠加技能显示.(显示技能叠加了多少次数)
--   实装技能(战斗技巧/多重箭矢/瞄准/穿透/专注)
--   完成某些Buff技能,暂存,在一定条件触发并消耗的机制
--   消耗性技能战斗日志显示
--   暂停战斗功能
--   更快回城(步数增加距离百分比)
--   冒险途中改变自动冒险选项
--   修改怪物评分系统
+🌐简要更新日志: 
+ - 实装技能(上帝之手/恶魔之绊/无中生有/贪得无厌/
+ - 实装技能(法术奥义/元素轰炸/沉默/魔法精研)
+ - 实装技能(军备/高利贷)
 ```
 
 文件一览
