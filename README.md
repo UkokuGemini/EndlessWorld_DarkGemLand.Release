@@ -1,6 +1,18 @@
-# <center> EndlessWorld_DarkGemLand [Ver4.2.5.553]</center>
+# <center> EndlessWorld_DarkGemLand</center>
 
 <center><img src="https://github.com/UkokuGemini/UkokuGemini.github.io/blob/MainBranches/img/EndlessWorld_DarkGemLand/ReadMeLogo.png?raw=true" width="400"></center>
+
+## **项目**
+[![branches](https://badgen.net/github/branches/UkokuGemini/EndlessWorld_DarkGemLand-Release)]()
+[![commits](https://badgen.net/github/commits/UkokuGemini/EndlessWorld_DarkGemLand-Release/MainBranches)]()
+[![releases](https://badgen.net/github/releases/UkokuGemini/EndlessWorld_DarkGemLand-Release)]()
+[![tags](https://badgen.net/github/tags/UkokuGemini/EndlessWorld_DarkGemLand-Release)]()
+[![issues](https://badgen.net/github/issues/UkokuGemini/EndlessWorld_DarkGemLand-Release)]()
+
+[![watchers](https://badgen.net/github/watchers/UkokuGemini/EndlessWorld_DarkGemLand-Release)]()
+[![stars](https://badgen.net/github/stars/UkokuGemini/EndlessWorld_DarkGemLand-Release)]()
+[![assets-dl(Download)](https://badgen.net/github/assets-dl/UkokuGemini/EndlessWorld_DarkGemLand-Release)]()
+[![forks](https://badgen.net/github/forks/UkokuGemini/EndlessWorld_DarkGemLand-Release)]()
 
 ## **游戏**
 
@@ -58,19 +70,18 @@
 也期待大家可以参与进来，成为开发团队中的一员。
 
 ### `License`
-
-[Apache License 2.0](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/blob/MainBranches/LICENSE)
+[![license](https://badgen.net/github/license/UkokuGemini/EndlessWorld_DarkGemLand-Release)](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/blob/MainBranches/LICENSE)
 
 ***
 
 ## **Release**
-#### `稳定发布版本` **#Ver4.1.6.467(小馄饨暨两周年版本)**
-#### `最新开发版本` **#Ver4.2.5.553**<sub>[2022-5-4]</sub>
-
-- 简要更新日志:  
-
+#### 🔰`稳定发布版本` 
+[![stable-release](https://badgen.net/github/release/UkokuGemini/EndlessWorld_DarkGemLand-Release/stable/)](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/tag/Version4.1.6(%E5%B0%8F%E9%A6%84%E9%A5%A8))
+#### 🔰`最新开发版本`
+[![last-release](https://badgen.net/badge/release/Version4.3.6[2022-5-8])]()
+[![last-mommit](https://badgen.net/github/last-commit/UkokuGemini/EndlessWorld_DarkGemLand-Release/MainBranches)]()
 ```
-Ver4.2.5
+Ver4.2.5简要更新日志: 
 -   新增叠加技能显示.(显示技能叠加了多少次数)
 -   实装技能(战斗技巧/多重箭矢/瞄准/穿透/专注)
 -   完成某些Buff技能,暂存,在一定条件触发并消耗的机制
