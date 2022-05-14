@@ -82,14 +82,15 @@
 #### 🔰`稳定发布版本` 
 [![stable-release](https://badgen.net/github/release/UkokuGemini/EndlessWorld_DarkGemLand-Release/stable/)](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/tag/Version4.1.6(%E5%B0%8F%E9%A6%84%E9%A5%A8))
 #### 🔰`最新开发版本`
-![last-release](https://badgen.net/badge/release/Version4.2.7[2022-5-11])
+![last-release](https://badgen.net/badge/release/Version4.2.8[2022-5-14])
 ![last-commit](https://img.shields.io/github/last-commit/UkokuGemini/EndlessWorld_DarkGemLand-Release/MainBranches?color=orange)
 
 ```
 🌐简要更新日志: 
- - 实装技能(替身/无往不利/诅咒)
- - 内置定时保存和0时清屏功能
- - 日志现在可以语音朗读了
+-   实装技能(迷惑)
+-   优化朗读速度,文本和关闭朗读的线程速度
+-   修复[惩戒]在[魔法精研]技能学习后不能正确造成伤害的问题
+-   调整技能点学习的所需数值
 ```
 
 文件一览
