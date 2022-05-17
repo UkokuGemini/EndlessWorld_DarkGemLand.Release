@@ -1,3 +1,7 @@
+---
+date modified: Wednesday, May 18th 2022, 1:38:47 am
+---
+
 # <center> EndlessWorld_DarkGemLand</center>
 
 <center><img src="https://github.com/UkokuGemini/UkokuGemini.github.io/blob/MainBranches/img/EndlessWorld_DarkGemLand/ReadMeLogo.png?raw=true" width="400"></center>
@@ -59,19 +63,19 @@
 
 	- [我的GitHub拷贝](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/tree/MainBranches/Dll):([SQLite.Interop.dll](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/blob/MainBranches/Dll/SQLite.Interop.dll)  & [System.Data.SQLite.dll](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/blob/MainBranches/Dll/System.Data.SQLite.dll)). - `Ver1.0.112.0`
 
-##### Windows7系统部分文字缺失问题解决方案
+#### Windows7系统部分文字缺失问题解决方案
 
  - [更新Windows补丁包Windows6.1-KB2729094-v2-x64](https://support.microsoft.com/zh-cn/topic/%E7%8E%B0%E6%8F%90%E4%BE%9B%E5%AF%B9-windows-7-%E5%92%8C-windows-server-2008-r2-%E4%B8%AD-segoe-ui-%E7%AC%A6%E5%8F%B7%E5%AD%97%E4%BD%93%E7%9A%84%E6%9B%B4%E6%96%B0-0743a473-3afe-e8b2-7c20-54aa430463d6)
 
 ***
 
-## **帮助&支持**
+# **帮助&支持**
 
-### `社区`
+## `社区`
 
 欢迎和我交流,访问我的 [Website & Blog](https://ukokugemini.github.io)
 
-### `Fork`
+## `Fork`
 
 考虑到游戏性和机制，不提倡通过修改源码达到获取游戏资源，加速游戏进程的目的。
 
@@ -81,19 +85,19 @@
 
 也期待大家可以参与进来，成为开发团队中的一员。
 
-### `License`
+## `License`
 
 [![license](https://badgen.net/github/license/UkokuGemini/EndlessWorld_DarkGemLand-Release)](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/blob/MainBranches/LICENSE)
 
 ***
 
-## **Release**
+# **Release**
 
-#### 🔰`稳定发布版本`
+## 🔰`稳定发布版本`
 
 [![stable-release](https://badgen.net/github/release/UkokuGemini/EndlessWorld_DarkGemLand-Release/stable/)](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/tag/Version4.1.6(%E5%B0%8F%E9%A6%84%E9%A5%A8))
 
-#### 🔰`最新开发版本`
+## 🔰`最新开发版本`
 
 ![last-release](https://badgen.net/badge/release/Version4.2.8[2022-5-14])
 ![last-commit](https://img.shields.io/github/last-commit/UkokuGemini/EndlessWorld_DarkGemLand-Release/MainBranches?color=orange)
@@ -118,7 +122,7 @@
  - AutoUpdate版本更新软件![AutoUpdate-EndlessWorld_DarkGemLand.exe size](https://img.shields.io/github/size/UkokuGemini/EndlessWorld_DarkGemLand-Release/Release/AutoUpdate-EndlessWorld_DarkGemLand.exe?color=yellow&label=AutoUpdate-EndlessWorld_DarkGemLand.exe)
 ***
 
-## **特别感谢**
+ **特别感谢**
 
 特别感谢以下贡献者：
 
@@ -128,7 +132,7 @@
 
 ***
 
-## **捐赠**
+ **捐赠**
 
 - NoNeed
 
