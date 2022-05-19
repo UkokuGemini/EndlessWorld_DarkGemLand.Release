@@ -1,8 +1,5 @@
----
-date modified: Wednesday, May 18th 2022, 1:38:47 am
----
 
-# <center> EndlessWorld_DarkGemLand</center>
+# <CENTER> ENDLESSWORLD_DARKGEMLAND</CENTER>
 
 <center><img src="https://github.com/UkokuGemini/UkokuGemini.github.io/blob/MainBranches/img/EndlessWorld_DarkGemLand/ReadMeLogo.png?raw=true" width="400"></center>
 
@@ -50,20 +47,19 @@ date modified: Wednesday, May 18th 2022, 1:38:47 am
 
 ![Windows](https://badgen.net/badge/Windows/建议10+/black?icon=windows)![Framework](https://badgen.net/badge/Framework/4.7.2+/black)![Sqlite](https://badgen.net/badge/Sqlite/1.0.112.0/black)
 
-- 你至少需要Windows系统下`FrameWork4.7.2`.
+- **FrameWork4.7.2**[官方页面](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net472)
+	- [下载链接](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net472-web-installer)
 
-  [官方页面](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net472) &
-  [下载链接](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net472-web-installer).
+- **运行库 (. Dll)**[GitHub页面](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/tag/_.DLL)
+	 - SQLite 数据库<sub> (32 位 Ver1.0.112.0) </sub>) [官方页面](http://system.data.sqlite.org/index.html/doc/trunk/www/downloads.wiki)
+		 - [下载SQLite. Interop. Dll](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/_.DLL/SQLite.Interop.dll)
+		 - [下载System.Data.SQLite.dll](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/_.DLL/System.Data.SQLite.dll) 
+	- 音频运行库
+		 - [下载AxInterop.WMPLib.dll](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/_.DLL/AxInterop.WMPLib.dll)
+		 - [下载Interop.WMPLib.dll](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/_.DLL/Interop.WMPLib.dll)
+		 - [下载wmp.dll](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/_.DLL/wmp.dll)
 
- - 游戏使用SQLite数据库.
-
-	需要 `SQLite.Interop.dll ` & `System.Data.SQLite.dll `两个运行库(32位).
-
-	- [官方页面](http://system.data.sqlite.org/index.html/doc/trunk/www/downloads.wiki) (因新版本链接库不支持PassWord关键字,请使用`Ver1.0.112.0`版本链接库.)
-
-	- [我的GitHub拷贝](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/tree/MainBranches/Dll):([SQLite.Interop.dll](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/blob/MainBranches/Dll/SQLite.Interop.dll)  & [System.Data.SQLite.dll](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/blob/MainBranches/Dll/System.Data.SQLite.dll)). - `Ver1.0.112.0`
-
-#### Windows7系统部分文字缺失问题解决方案
+#### WINDOWS7系统部分文字缺失问题解决方案
 
  - [更新Windows补丁包Windows6.1-KB2729094-v2-x64](https://support.microsoft.com/zh-cn/topic/%E7%8E%B0%E6%8F%90%E4%BE%9B%E5%AF%B9-windows-7-%E5%92%8C-windows-server-2008-r2-%E4%B8%AD-segoe-ui-%E7%AC%A6%E5%8F%B7%E5%AD%97%E4%BD%93%E7%9A%84%E6%9B%B4%E6%96%B0-0743a473-3afe-e8b2-7c20-54aa430463d6)
 
@@ -75,7 +71,7 @@ date modified: Wednesday, May 18th 2022, 1:38:47 am
 
 欢迎和我交流,访问我的 [Website & Blog](https://ukokugemini.github.io)
 
-## `Fork`
+## `FORK`
 
 考虑到游戏性和机制，不提倡通过修改源码达到获取游戏资源，加速游戏进程的目的。
 
@@ -85,13 +81,13 @@ date modified: Wednesday, May 18th 2022, 1:38:47 am
 
 也期待大家可以参与进来，成为开发团队中的一员。
 
-## `License`
+## `LICENSE`
 
 [![license](https://badgen.net/github/license/UkokuGemini/EndlessWorld_DarkGemLand-Release)](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/blob/MainBranches/LICENSE)
 
 ***
 
-# **Release**
+# **RELEASE**
 
 ## 🔰`稳定发布版本`
 
@@ -99,15 +95,12 @@ date modified: Wednesday, May 18th 2022, 1:38:47 am
 
 ## 🔰`最新开发版本`
 
-![last-release](https://badgen.net/badge/release/Version4.2.8[2022-5-14])
+![last-release](https://badgen.net/badge/release/Version4.3.0[2022-5-20])
 ![last-commit](https://img.shields.io/github/last-commit/UkokuGemini/EndlessWorld_DarkGemLand-Release/MainBranches?color=orange)
 
 ```
 🌐简要更新日志: 
--   实装技能(迷惑)
--   优化朗读速度,文本和关闭朗读的线程速度
--   修复[惩戒]在[魔法精研]技能学习后不能正确造成伤害的问题
--   调整技能点学习的所需数值
+	稳定版本(曙光)
 ```
 
 文件一览
@@ -116,9 +109,13 @@ date modified: Wednesday, May 18th 2022, 1:38:47 am
  - 游戏主体文件![EndlessWorld_DarkGemLand.exe size](https://img.shields.io/github/size/UkokuGemini/EndlessWorld_DarkGemLand-Release/Release/EndlessWorld_DarkGemLand.exe?color=yellow&label=EndlessWorld_DarkGemLand.exe)
  - DataBase系统数据库![EndlessWorld_DarkGemLand.SysData.db size](https://img.shields.io/github/size/UkokuGemini/EndlessWorld_DarkGemLand-Release/Release/EndlessWorld_DarkGemLand.SysData.db?color=yellow&label=EndlessWorld_DarkGemLand.SysData.db)
  - DataBase用户数据库存档![EndlessWorld_DarkGemLand.UserData.db size](https://img.shields.io/github/size/UkokuGemini/EndlessWorld_DarkGemLand-Release/Release/EndlessWorld_DarkGemLand.UserData.db?color=yellow&label=EndlessWorld_DarkGemLand.UserData.db)
- - SQLite.DLL数据库组件
+ - SQLite.DLL数据库组件<sub> Ver1.0.112 </sub>
 	 - ![SQLite.Interop.dll size](https://img.shields.io/github/size/UkokuGemini/EndlessWorld_DarkGemLand-Release/Release/SQLite.Interop.dll?color=yellow&label=SQLite.Interop.dll)
-	 - ![System.Data.SQLite.dll size](https://img.shields.io/github/size/UkokuGemini/EndlessWorld_DarkGemLand-Release/Release/System.Data.SQLite.dll?color=yellow&label=System.Data.SQLite.dll)<sub>Ver1.0.112</sub>
+	 - ![System.Data.SQLite.dll size](https://img.shields.io/github/size/UkokuGemini/EndlessWorld_DarkGemLand-Release/Release/System.Data.SQLite.dll?color=yellow&label=System.Data.SQLite.dll)
+ -  音频组件
+	 - ![AxInterop.WMPLib.dll size](https://img.shields.io/github/size/UkokuGemini/EndlessWorld_DarkGemLand-Release/Release/AxInterop.WMPLib.dll?color=yellow&label=AxInterop.WMPLib.dll)
+	 - ![Interop.WMPLib.dll size](https://img.shields.io/github/size/UkokuGemini/EndlessWorld_DarkGemLand-Release/Release/Interop.WMPLib.dll?color=yellow&label=Interop.WMPLib.dll)
+	 - ![wmp.dll size](https://img.shields.io/github/size/UkokuGemini/EndlessWorld_DarkGemLand-Release/Release/wmp.dll?color=yellow&label=wmp.dll)
  - AutoUpdate版本更新软件![AutoUpdate-EndlessWorld_DarkGemLand.exe size](https://img.shields.io/github/size/UkokuGemini/EndlessWorld_DarkGemLand-Release/Release/AutoUpdate-EndlessWorld_DarkGemLand.exe?color=yellow&label=AutoUpdate-EndlessWorld_DarkGemLand.exe)
 ***
 
