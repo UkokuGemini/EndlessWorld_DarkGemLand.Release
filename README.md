@@ -47,10 +47,10 @@
 
 ![Windows](https://badgen.net/badge/Windows/建议10+/black?icon=windows)![Framework](https://badgen.net/badge/Framework/4.7.2+/black)![Sqlite](https://badgen.net/badge/Sqlite/1.0.112.0/black)
 
-- **FrameWork4.7.2**[官方页面](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net472)
+- **FrameWork4.7.2** [官方页面](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net472)
 	- [下载链接](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net472-web-installer)
 
-- **运行库 (. Dll)**[GitHub页面](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/tag/_.DLL)
+- **运行库 (. Dll)** [GitHub页面](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/tag/_.DLL)
 	 - SQLite 数据库<sub> (32 位 Ver1.0.112.0) </sub>) [官方页面](http://system.data.sqlite.org/index.html/doc/trunk/www/downloads.wiki)
 		 - [下载SQLite. Interop. Dll](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/_.DLL/SQLite.Interop.dll)
 		 - [下载System.Data.SQLite.dll](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/_.DLL/System.Data.SQLite.dll) 
@@ -95,12 +95,14 @@
 
 ## 🔰`最新开发版本`
 
-![last-release](https://badgen.net/badge/release/Version4.3.0[2022-5-20])
-![last-commit](https://img.shields.io/github/last-commit/UkokuGemini/EndlessWorld_DarkGemLand-Release/MainBranches?color=orange)
+![last-release](https://badgen.net/badge/release/Version4.3.1[2022-5-27])
+![](https://badgen.net/github/last-commit/UkokuGemini/EndlessWorld_DarkGemLand-Release/MainBranches)
 
 ```
 🌐简要更新日志: 
-	稳定版本(曙光)
+-   基础技能/职业技能现在分开显示
+-   基础技能实装
+-   升级基础技能现在不需要额外消耗技能点
 ```
 
 文件一览
