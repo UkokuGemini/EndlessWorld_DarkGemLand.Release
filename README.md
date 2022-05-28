@@ -95,7 +95,7 @@
 
 ## 🔰`最新开发版本`
 
-![last-release](https://badgen.net/badge/release/Version4.3.1[2022-5-27])
+![last-release](https://badgen.net/badge/release/Version4.3.1[2022-5-29])
 ![](https://badgen.net/github/last-commit/UkokuGemini/EndlessWorld_DarkGemLand-Release/MainBranches)
 
 ```
@@ -103,6 +103,7 @@
 -   基础技能/职业技能现在分开显示
 -   基础技能实装
 -   升级基础技能现在不需要额外消耗技能点
+-   不同职业现在拥有初始属性的增强
 ```
 
 文件一览
