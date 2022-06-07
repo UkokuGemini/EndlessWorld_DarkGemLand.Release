@@ -83,7 +83,7 @@
 
 ## `LICENSE`
 
-[![license](https://badgen.net/github/license/UkokuGemini/EndlessWorld_DarkGemLand-Release)](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/blob/MainBranches/LICENSE)
+[![license](https://badgen.net/github/license/UkokuGemini/EndlessWorld_DarkGemLand-Release)](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/blob/MainBranches/LICENSE )
 
 ***
 
@@ -91,19 +91,20 @@
 
 ## 🔰`稳定发布版本`
 
-[![stable-release](https://badgen.net/github/release/UkokuGemini/EndlessWorld_DarkGemLand-Release/stable/)](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/tag/Version4.1.6(%E5%B0%8F%E9%A6%84%E9%A5%A8))
+[![stable-release](https://badgen.net/github/release/UkokuGemini/EndlessWorld_DarkGemLand-Release/stable/)](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/tag/Version4.1.6 (%E5%B0%8F%E9%A6%84%E9%A5%A8))
+[![stable-release](https://img.shields.io/github/release-date/UkokuGemini/EndlessWorld_DarkGemLand-Release)]
 
 ## 🔰`最新开发版本`
 
-![last-release](https://badgen.net/badge/release/Version4.3.1[2022-5-29])
+![last-release](https://badgen.net/badge/release/Version4.3.1[2022-6-8])
 ![](https://badgen.net/github/last-commit/UkokuGemini/EndlessWorld_DarkGemLand-Release/MainBranches)
 
 ```
 🌐简要更新日志: 
--   基础技能/职业技能现在分开显示
--   基础技能实装
--   升级基础技能现在不需要额外消耗技能点
--   不同职业现在拥有初始属性的增强
+-   技能实装 (妖术/缠绕枝蔓/巫毒/坚韧不屈)
+-   修改技能 (多重箭矢的作用效果: 衰减为伤害衰减, 修改元素轰炸的效果)
+-   基础技能现在在未学习时, 也会显示基础数据
+-   职业精通额外加成
 ```
 
 文件一览
