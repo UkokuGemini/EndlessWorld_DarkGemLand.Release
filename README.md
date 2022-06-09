@@ -91,21 +91,23 @@
 
 ## 🔰`稳定发布版本`
 
-[![stable-release](https://badgen.net/github/release/UkokuGemini/EndlessWorld_DarkGemLand-Release/stable/)](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/tag/Version4.1.6 (%E5%B0%8F%E9%A6%84%E9%A5%A8))
+[![stable-release](https://badgen.net/github/release/UkokuGemini/EndlessWorld_DarkGemLand-Release/stable/)](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/Version4.3.0(%E6%9B%99%E5%85%89)/EndlessWorld_DarkGemLand.Ver4.3.0.2022-05-20.msi)
 [![stable-release](https://img.shields.io/github/release-date/UkokuGemini/EndlessWorld_DarkGemLand-Release)]
 
-## 🔰`最新开发版本`
+### 🔰`最新开发版本`
 
-![last-release](https://badgen.net/badge/release/Version4.3.1[2022-6-8])
-![](https://badgen.net/github/last-commit/UkokuGemini/EndlessWorld_DarkGemLand-Release/MainBranches)
-
+<img style="float:left" src="https://badgen.net/badge/release/Version4.3.2.640[2022-6-9]">
+<img style="float:left" src="https://badgen.net/github/last-commit/UkokuGemini/EndlessWorld_DarkGemLand-Release/MainBranches">
 ```
-🌐简要更新日志: 
--   技能实装 (妖术/缠绕枝蔓/巫毒/坚韧不屈)
+🌐简要更新日志:
+-   技能实装 (妖术/缠绕枝蔓/巫毒/坚韧不屈/嗜血/狂热/狂怒/嘲讽/魔法免疫/激怒)
 -   修改技能 (多重箭矢的作用效果: 衰减为伤害衰减, 修改元素轰炸的效果)
 -   基础技能现在在未学习时, 也会显示基础数据
 -   职业精通额外加成
+-   现在职业[战士]不再拥有[冲锋]技能,改为新技能[嘲讽].冲锋现在是怪物技能.
 ```
+
+---
 
 文件一览
 
