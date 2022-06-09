@@ -91,13 +91,17 @@
 
 ## 🔰`稳定发布版本`
 
-[![stable-release](https://badgen.net/github/release/UkokuGemini/EndlessWorld_DarkGemLand-Release/stable/)](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/Version4.3.0(%E6%9B%99%E5%85%89)/EndlessWorld_DarkGemLand.Ver4.3.0.2022-05-20.msi)
-[![stable-release](https://img.shields.io/github/release-date/UkokuGemini/EndlessWorld_DarkGemLand-Release)]
+[![stable-release](https://badgen.net/github/release/UkokuGemini/EndlessWorld_DarkGemLand-Release/stable/)](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/Version4.3.0(%E6%9B%99%E5%85%89)/EndlessWorld_DarkGemLand.Ver4.3.0.2022-05-20.msi).
+
+![stable-release](https://img.shields.io/github/release-date/UkokuGemini/EndlessWorld_DarkGemLand-Release).
 
 ### 🔰`最新开发版本`
 
-<img style="float:left" src="https://badgen.net/badge/release/Version4.3.2.640[2022-6-9]">
-<img style="float:left" src="https://badgen.net/github/last-commit/UkokuGemini/EndlessWorld_DarkGemLand-Release/MainBranches">
+<img style="float:left" src="https://badgen.net/badge/release/Version4.3.2.640[2022-6-9]">.
+
+<img style="float:left" src="https://badgen.net/github/last-commit/UkokuGemini/EndlessWorld_DarkGemLand-Release/MainBranches">.
+
+
 ```
 🌐简要更新日志:
 -   技能实装 (妖术/缠绕枝蔓/巫毒/坚韧不屈/嗜血/狂热/狂怒/嘲讽/魔法免疫/激怒)
