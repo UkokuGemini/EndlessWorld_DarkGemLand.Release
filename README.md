@@ -97,15 +97,16 @@
 
 ### 🔰`最新开发版本`
 
-<img style="float:left" src="https://badgen.net/badge/release/Version4.3.2.640[2022-6-9]"><img style="float:left" src="https://badgen.net/github/last-commit/UkokuGemini/EndlessWorld_DarkGemLand-Release/MainBranches"><img style="float:left" src="https://badgen.net/github/commits/UkokuGemini/EndlessWorld_DarkGemLand-Release/MainBranches">.
+<img style="float:left" src="https://badgen.net/badge/release/Version4.3.3.658[2022-8-14]"><img style="float:left" src="https://badgen.net/github/last-commit/UkokuGemini/EndlessWorld_DarkGemLand-Release/MainBranches"><img style="float:left" src="https://badgen.net/github/commits/UkokuGemini/EndlessWorld_DarkGemLand-Release/MainBranches">.
 
 ```
 🌐简要更新日志:
--   技能实装 (妖术/缠绕枝蔓/巫毒/坚韧不屈/嗜血/狂热/狂怒/嘲讽/魔法免疫/激怒)
--   修改技能 (多重箭矢的作用效果: 衰减为伤害衰减, 修改元素轰炸的效果)
--   基础技能现在在未学习时, 也会显示基础数据
--   职业精通额外加成
--   现在职业[战士]不再拥有[冲锋]技能,改为新技能[嘲讽].冲锋现在是怪物技能.
+ - 技能实装(盾击/附魔攻击/充能闪电/聚魔之刃/佛心/追击/截拳/恩泽)
+ - 修改技能(巫医-迷惑:改为魔法护盾.作用效果为: 受到伤害时以魔法代替生命损失)
+ - 修改技能(巫医-巫毒:现在可以额外等比恢复魔法)
+ - 调整日志记录路径结构;修复重复记录的问题;调整自动记录的时间;退出记录.
+ - 调整命中闪避模型
+ - 设置转职金钱数额
 ```
 
 ---
