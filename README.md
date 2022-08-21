@@ -97,16 +97,13 @@
 
 ### 🔰`最新开发版本`
 
-<img style="float:left" src="https://badgen.net/badge/release/Version4.3.3.658[2022-8-14]"><img style="float:left" src="https://badgen.net/github/last-commit/UkokuGemini/EndlessWorld_DarkGemLand-Release/MainBranches"><img style="float:left" src="https://badgen.net/github/commits/UkokuGemini/EndlessWorld_DarkGemLand-Release/MainBranches">.
+<img style="float:left" src="https://badgen.net/badge/release/Version4.3.4[2022-8-21]"><img style="float:left" src="https://badgen.net/github/last-commit/UkokuGemini/EndlessWorld_DarkGemLand-Release/MainBranches"><img style="float:left" src="https://badgen.net/github/commits/UkokuGemini/EndlessWorld_DarkGemLand-Release/MainBranches">.
 
 ```
 🌐简要更新日志:
- - 技能实装(盾击/附魔攻击/充能闪电/聚魔之刃/佛心/追击/截拳/恩泽)
- - 修改技能(巫医-迷惑:改为魔法护盾.作用效果为: 受到伤害时以魔法代替生命损失)
- - 修改技能(巫医-巫毒:现在可以额外等比恢复魔法)
- - 调整日志记录路径结构;修复重复记录的问题;调整自动记录的时间;退出记录.
- - 调整命中闪避模型
- - 设置转职金钱数额
+ - 技能实装(会心/绝杀)
+ - 自启动设置
+ - 后台关闭时以背景方式启动
 ```
 
 ---
