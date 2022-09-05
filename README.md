@@ -35,6 +35,9 @@
 
 ***
 
+## **Wiki**
+[Wiki-Page](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/wiki)
+
 ## **使用手册**
 
 ### `开发工具`
