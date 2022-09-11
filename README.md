@@ -34,7 +34,6 @@
 而只有你知道，魔物变异的形势愈发严峻，你不断变强的渴望也越发强烈…
 
 ***
-
 ## **Wiki**
 [Wiki-Page](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/wiki)
 
