@@ -54,6 +54,7 @@
 ---
 
 ### **进度日志** 
+
 #### 🌐VER4.4.0<SUB>[2022-9-12]</SUB>
 
  - 稳定版本(**明堂佛**)
@@ -86,13 +87,13 @@
  - [Wiki](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/wiki/Home)
 
 ## **🪔使用手册**
-### `开发工具`
+### `·开发工具`
 
 使用VisualStudio 2022 VB.net语言
 
 ![visualstudio](https://badgen.net/badge/visualstudio/2022/cyan?icon=visualstudio)![visualstudio](https://badgen.net/badge/visualstudio/VB.Net/cyan?icon=visualstudio)
 
-### `平台&运行库`
+### `·平台&运行库`
 
 ![Windows](https://badgen.net/badge/Windows/建议10+/black?icon=windows)![Framework](https://badgen.net/badge/Framework/4.7.2+/black)![Sqlite](https://badgen.net/badge/Sqlite/1.0.112.0/black)
 
@@ -115,11 +116,11 @@
 ***
 
 ## **🤝帮助&支持**
-### `社区`
+### `·社区`
 
 欢迎和我交流,访问我的 [Website & Blog](https://ukokugemini.github.io)
 
-### `FORK`
+### `·FORK`
 
 考虑到游戏性和机制，不提倡通过修改源码达到获取游戏资源，加速游戏进程的目的。
 
@@ -164,6 +165,9 @@
 
 - NoNeed
 
+---
+
 # ![EndlessWorld_DarkGemLand开发日志](https://badgen.net/badge/:/EndlessWorld_DarkGemLand开发日志/cyan?icon=github)
-***
-***
+
+---
+---
