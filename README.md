@@ -2,8 +2,7 @@
 # <CENTER> ENDLESSWORLD_DARKGEMLAND</CENTER>
 
 <center><img src="https://github.com/UkokuGemini/UkokuGemini.github.io/blob/MainBranches/img/EndlessWorld_DarkGemLand/ReadMeLogo.png?raw=true" width="400"></center>
-
-## **项目**
+## **🏆项目**
 
 ![branches](https://badgen.net/github/branches/UkokuGemini/EndlessWorld_DarkGemLand-Release)
 ![commits](https://badgen.net/github/commits/UkokuGemini/EndlessWorld_DarkGemLand-Release/MainBranches)
@@ -16,8 +15,7 @@
 ![assets-dl(Download)](https://badgen.net/github/assets-dl/UkokuGemini/EndlessWorld_DarkGemLand-Release?color=green)
 ![forks](https://badgen.net/github/forks/UkokuGemini/EndlessWorld_DarkGemLand-Release?color=green)
 
-## **游戏**
-
+## **🎮游戏**
 ### `描述`
 
 异世界讨伐魔物的游戏.
@@ -34,11 +32,60 @@
 而只有你知道，魔物变异的形势愈发严峻，你不断变强的渴望也越发强烈…
 
 ***
-## **Wiki**
-[Wiki-Page](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/wiki)
+## **🎉稳定发布版本** 
 
-## **使用手册**
+<img style="float:left" src="https://badgen.net/github/release/UkokuGemini/EndlessWorld_DarkGemLand-Release/stable">
+<img style="float:left" src="https://img.shields.io/github/release-date/UkokuGemini/EndlessWorld_DarkGemLand-Release">
+.
 
+---
+
+ - [下载地址](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/Version4.3.0(%E6%9B%99%E5%85%89)/EndlessWorld_DarkGemLand.Ver4.3.0.2022-05-20.msi).
+
+---
+
+## **🔬最新开发进度**
+
+<img style="float:left" src="https://badgen.net/badge/release/Version4.4.0[2022-09-12]">
+<img style="float:left" src="https://badgen.net/github/last-commit/UkokuGemini/EndlessWorld_DarkGemLand-Release/MainBranches">
+<img style="float:left" src="https://badgen.net/github/commits/UkokuGemini/EndlessWorld_DarkGemLand-Release/MainBranches">
+.
+
+---
+
+### **进度日志** 
+#### 🌐VER4.4.0<SUB>[2022-9-12]</SUB>
+
+ - 稳定版本(**明堂佛**)
+
+#### [更多历史日志](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/wiki/Design_Log)
+
+---
+## **📅工作情况**
+
+![](https://ghchart.rshah.org/444444/UkokuGemini)
+
+---
+## **🧩开发待办**
+
+### **近期**
+
+ - 账户转移
+
+ - 设置保存
+
+     - 用户(使用者)World
+
+ - 靡靡之音/赌徒A/赌术/逆天改命/老千/...
+
+#### [更多待办](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/wiki/Design_todo)
+
+---
+## **📖产品Wiki** 
+
+ - [Wiki](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/wiki/Home)
+
+## **🪔使用手册**
 ### `开发工具`
 
 使用VisualStudio 2022 VB.net语言
@@ -67,13 +114,12 @@
 
 ***
 
-# **帮助&支持**
-
-## `社区`
+## **🤝帮助&支持**
+### `社区`
 
 欢迎和我交流,访问我的 [Website & Blog](https://ukokugemini.github.io)
 
-## `FORK`
+### `FORK`
 
 考虑到游戏性和机制，不提倡通过修改源码达到获取游戏资源，加速游戏进程的目的。
 
@@ -83,34 +129,12 @@
 
 也期待大家可以参与进来，成为开发团队中的一员。
 
-## `LICENSE`
+## **🎫LICENSE**
 
 [![license](https://badgen.net/github/license/UkokuGemini/EndlessWorld_DarkGemLand-Release)](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/blob/MainBranches/LICENSE )
 
 ***
-
-# **RELEASE**
-
-## 🔰`稳定发布版本`
-
-[![stable-release](https://badgen.net/github/release/UkokuGemini/EndlessWorld_DarkGemLand-Release/stable/)](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/Version4.3.0(%E6%9B%99%E5%85%89)/EndlessWorld_DarkGemLand.Ver4.3.0.2022-05-20.msi).
-
-![stable-release](https://img.shields.io/github/release-date/UkokuGemini/EndlessWorld_DarkGemLand-Release).
-
-### 🔰`最新开发版本`
-
-<img style="float:left" src="https://badgen.net/badge/release/Version4.3.4[2022-8-21]"><img style="float:left" src="https://badgen.net/github/last-commit/UkokuGemini/EndlessWorld_DarkGemLand-Release/MainBranches"><img style="float:left" src="https://badgen.net/github/commits/UkokuGemini/EndlessWorld_DarkGemLand-Release/MainBranches">.
-
-```
-🌐简要更新日志:
- - 技能实装(会心/绝杀)
- - 自启动设置
- - 后台关闭时以背景方式启动
-```
-
----
-
-文件一览
+## **📁文件一览**
 
 ![repo size](https://img.shields.io/github/repo-size/ukokugemini/EndlessWorld_DarkGemLand-Release)
  - 游戏主体文件![EndlessWorld_DarkGemLand.exe size](https://img.shields.io/github/size/UkokuGemini/EndlessWorld_DarkGemLand-Release/Release/EndlessWorld_DarkGemLand.exe?color=yellow&label=EndlessWorld_DarkGemLand.exe)
@@ -126,7 +150,7 @@
  - AutoUpdate版本更新软件![AutoUpdate-EndlessWorld_DarkGemLand.exe size](https://img.shields.io/github/size/UkokuGemini/EndlessWorld_DarkGemLand-Release/Release/AutoUpdate-EndlessWorld_DarkGemLand.exe?color=yellow&label=AutoUpdate-EndlessWorld_DarkGemLand.exe)
 ***
 
- **特别感谢**
+## **🎳特别感谢**
 
 特别感谢以下贡献者：
 
@@ -140,5 +164,6 @@
 
 - NoNeed
 
+# ![EndlessWorld_DarkGemLand开发日志](https://badgen.net/badge/:/EndlessWorld_DarkGemLand开发日志/cyan?icon=github)
 ***
 ***
