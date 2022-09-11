@@ -2,6 +2,9 @@
 # <CENTER> ENDLESSWORLD_DARKGEMLAND</CENTER>
 
 <center><img src="https://github.com/UkokuGemini/UkokuGemini.github.io/blob/MainBranches/img/EndlessWorld_DarkGemLand/ReadMeLogo.png?raw=true" width="400"></center>
+
+---
+
 ## **🏆项目**
 
 ![branches](https://badgen.net/github/branches/UkokuGemini/EndlessWorld_DarkGemLand-Release)
@@ -16,6 +19,7 @@
 ![forks](https://badgen.net/github/forks/UkokuGemini/EndlessWorld_DarkGemLand-Release?color=green)
 
 ## **🎮游戏**
+
 ### `描述`
 
 异世界讨伐魔物的游戏.
@@ -31,7 +35,8 @@
 城镇冈托斯多的周围近期出现了越来越多的魔物，国王颁布讨伐令很久，勇士们争相出城，而你无论战胜还是战败，总能安全归城，成为这座城市不死的神话，城市的人奉你为英雄。
 而只有你知道，魔物变异的形势愈发严峻，你不断变强的渴望也越发强烈…
 
-***
+---
+
 ## **🎉稳定发布版本** 
 
 <img style="float:left" src="https://badgen.net/github/release/UkokuGemini/EndlessWorld_DarkGemLand-Release/stable">
@@ -62,11 +67,13 @@
 #### [更多历史日志](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/wiki/Design_Log)
 
 ---
+
 ## **📅工作情况**
 
 ![](https://ghchart.rshah.org/444444/UkokuGemini)
 
 ---
+
 ## **🧩开发待办**
 
 ### **近期**
@@ -82,9 +89,12 @@
 #### [更多待办](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/wiki/Design_todo)
 
 ---
+
 ## **📖产品Wiki** 
 
  - [Wiki](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/wiki/Home)
+
+---
 
 ## **🪔使用手册**
 ### `·开发工具`
@@ -113,7 +123,7 @@
 
  - [更新Windows补丁包Windows6.1-KB2729094-v2-x64](https://support.microsoft.com/zh-cn/topic/%E7%8E%B0%E6%8F%90%E4%BE%9B%E5%AF%B9-windows-7-%E5%92%8C-windows-server-2008-r2-%E4%B8%AD-segoe-ui-%E7%AC%A6%E5%8F%B7%E5%AD%97%E4%BD%93%E7%9A%84%E6%9B%B4%E6%96%B0-0743a473-3afe-e8b2-7c20-54aa430463d6)
 
-***
+---
 
 ## **🤝帮助&支持**
 ### `·社区`
@@ -130,11 +140,14 @@
 
 也期待大家可以参与进来，成为开发团队中的一员。
 
+---
+
 ## **🎫LICENSE**
 
 [![license](https://badgen.net/github/license/UkokuGemini/EndlessWorld_DarkGemLand-Release)](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/blob/MainBranches/LICENSE )
 
-***
+---
+
 ## **📁文件一览**
 
 ![repo size](https://img.shields.io/github/repo-size/ukokugemini/EndlessWorld_DarkGemLand-Release)
@@ -149,7 +162,8 @@
 	 - ![Interop.WMPLib.dll size](https://img.shields.io/github/size/UkokuGemini/EndlessWorld_DarkGemLand-Release/Release/Interop.WMPLib.dll?color=yellow&label=Interop.WMPLib.dll)
 	 - ![wmp.dll size](https://img.shields.io/github/size/UkokuGemini/EndlessWorld_DarkGemLand-Release/Release/wmp.dll?color=yellow&label=wmp.dll)
  - AutoUpdate版本更新软件![AutoUpdate-EndlessWorld_DarkGemLand.exe size](https://img.shields.io/github/size/UkokuGemini/EndlessWorld_DarkGemLand-Release/Release/AutoUpdate-EndlessWorld_DarkGemLand.exe?color=yellow&label=AutoUpdate-EndlessWorld_DarkGemLand.exe)
-***
+ - 
+---
 
 ## **🎳特别感谢**
 
@@ -159,7 +173,7 @@
 
 - [SUNSHINE](https://github.com/sunshineyg)
 
-***
+---
 
  **捐赠**
 
