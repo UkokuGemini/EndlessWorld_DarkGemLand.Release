@@ -45,7 +45,7 @@
 
 ---
 
- - [下载地址](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/Version4.3.0(%E6%9B%99%E5%85%89)/EndlessWorld_DarkGemLand.Ver4.3.0.2022-05-20.msi).
+ - [下载地址](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/Version4.4.0(%E6%98%8E%E5%A0%82%E4%BD%9B)/EndlessWorld_DarkGemLand.Ver4.4.0.2022-09-12.msi).
 
 ---
 
