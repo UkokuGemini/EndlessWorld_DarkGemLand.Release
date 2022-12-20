@@ -53,7 +53,7 @@ EndlessWorld_DarkGemLand-开发手记
 
 ---
 
- - [下载地址](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/Version_Latest/_EndlessWorld_DarkGemLand.msi).
+ - [<img style="float:left" src="https://badgen.net/badge/DownLoad/Click Here📥/black/">](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/Version_Latest/_EndlessWorld_DarkGemLand.msi).
 
 ---
 
