@@ -53,7 +53,7 @@ EndlessWorld_DarkGemLand-开发手记
 
 ---
 
- - [下载地址](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/Version4.4.0(%E6%98%8E%E5%A0%82%E4%BD%9B)/EndlessWorld_DarkGemLand.Ver4.4.0.2022-09-12.msi).
+ - [下载地址](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/Version_Latest/_EndlessWorld_DarkGemLand.msi).
 
 ---
 
@@ -89,19 +89,24 @@ EndlessWorld_DarkGemLand-开发手记
 
 ### `·平台&运行库`
 
-![Windows](https://badgen.net/badge/Windows/建议10+/black?icon=windows)![Framework](https://badgen.net/badge/Framework/4.7.2+/black)![Sqlite](https://badgen.net/badge/Sqlite/1.0.112.0/black)
+![Windows](https://badgen.net/badge/Windows/建议10+/black?icon=windows)
+![Framework](https://badgen.net/badge/Framework/4.7.2+/black)
+![Sqlite](https://badgen.net/badge/Sqlite/1.0.112.0/black)
+![Visual C++ Redistributable](https://badgen.net/badge/Visual_C++_Redistributable/x86/black)
 
 - **FrameWork4.7.2** [官方页面](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net472)
 	- [下载链接](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net472-web-installer)
+- **Visual C++ Redistributable x86** [官方页面](https://www.microsoft.com/zh-CN/download/details.aspx?id=48145)
+	- [下载链接](https://www.microsoft.com/zh-cn/download/confirmation.aspx?id=48145&6B49FDFB-8E5B-4B07-BC31-15695C5A2143=1)
 
-- **运行库 (. Dll)** [GitHub页面](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/tag/_.DLL)
+- **运行库 (. Dll)** [GitHub页面](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/tag/Requires)
 	 - SQLite 数据库<sub> (32 位 Ver1.0.112.0) </sub>) [官方页面](http://system.data.sqlite.org/index.html/doc/trunk/www/downloads.wiki)
-		 - [下载SQLite. Interop. Dll](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/_.DLL/SQLite.Interop.dll)
-		 - [下载System.Data.SQLite.dll](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/_.DLL/System.Data.SQLite.dll) 
+		 - [下载SQLite. Interop. Dll](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/Requires/SQLite.Interop.dll)
+		 - [下载System.Data.SQLite.dll](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/Requires/System.Data.SQLite.dll) 
 	- 音频运行库
-		 - [下载AxInterop.WMPLib.dll](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/_.DLL/AxInterop.WMPLib.dll)
-		 - [下载Interop.WMPLib.dll](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/_.DLL/Interop.WMPLib.dll)
-		 - [下载wmp.dll](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/_.DLL/wmp.dll)
+		 - [下载AxInterop.WMPLib.dll](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/Requires/AxInterop.WMPLib.dll)
+		 - [下载Interop.WMPLib.dll](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/Requires/Interop.WMPLib.dll)
+		 - [下载wmp.dll](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/Requires/wmp.dll)
 
 #### WINDOWS7系统部分文字缺失问题解决方案
 
