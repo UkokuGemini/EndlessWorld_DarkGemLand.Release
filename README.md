@@ -24,6 +24,10 @@ EndlessWorld_DarkGemLand-开发手记
 
 ## **🎮游戏**
 
+### 预览
+
+![](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/blob/MainBranches/PreView.PNG)
+
 ### `描述`
 
 异世界讨伐魔物的游戏.
