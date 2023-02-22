@@ -108,6 +108,9 @@ EndlessWorld_DarkGemLand-开发手记
 - **FrameWork4.7.2** [官方页面](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net472)
 	- [下载链接](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net472-web-installer)
 
+- **Visual C++ Redistributable x86** [官方页面](https://www.microsoft.com/en-us/download/details.aspx?id=26999)
+	- [下载链接](https://www.microsoft.com/en-us/download/confirmation.aspx?id=26999&6B49FDFB-8E5B-4B07-BC31-15695C5A2143=1)
+
 - **运行库 (. Dll)** [GitHub页面](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/tag/_.DLL)
 	 - SQLite 数据库<sub> (32 位 Ver1.0.112.0) </sub>) [官方页面](http://system.data.sqlite.org/index.html/doc/trunk/www/downloads.wiki)
 		 - [下载SQLite. Interop. Dll](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/Requires/SQLite.Interop.dll)
@@ -124,8 +127,8 @@ EndlessWorld_DarkGemLand-开发手记
 
 #### SQLite. Interop. Dll无法识别模块 (缺少Visual C++2010Service库)
 ==解决方案:==
- - [更新安装Vcredist_x86](https://www.microsoft.com/en-us/download/details.aspx?id=26999)
-
+ - 更新安装Vcredist_x86[官方页面](https://www.microsoft.com/en-us/download/details.aspx?id=26999)
+ - [下载链接](https://www.microsoft.com/en-us/download/confirmation.aspx?id=26999&6B49FDFB-8E5B-4B07-BC31-15695C5A2143=1)
 ---
 
 ## **🤝帮助&支持**
