@@ -42,6 +42,7 @@ EndlessWorld_DarkGemLand-开发手记
 ---
 
 ## **🎉稳定发布版本** 
+### **下载** [👉下载地址](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/tag/LatestVersion_Setup).
 
 <img style="float:left" src="https://badgen.net/github/release/UkokuGemini/EndlessWorld_DarkGemLand-Release/stable">
 <img style="float:left" src="https://img.shields.io/github/release-date/UkokuGemini/EndlessWorld_DarkGemLand-Release">
@@ -49,23 +50,12 @@ EndlessWorld_DarkGemLand-开发手记
 
 ---
 
- - [下载地址](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/Version4.4.0(%E6%98%8E%E5%A0%82%E4%BD%9B)/EndlessWorld_DarkGemLand.Ver4.4.0.2022-09-12.msi).
-
----
-
 ## **🔬最新开发进度**
-
-<img style="float:left" src="https://badgen.net/badge/release/Version4.4.1[2022-09-23]">
+### **进度** [👉更新日志](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/wiki/Design_Log)
+<img style="float:left" src="https://badgen.net/badge/release/Version5.0.6[2023-02-25]">
 <img style="float:left" src="https://badgen.net/github/last-commit/UkokuGemini/EndlessWorld_DarkGemLand-Release/MainBranches">
 <img style="float:left" src="https://badgen.net/github/commits/UkokuGemini/EndlessWorld_DarkGemLand-Release/MainBranches">
 .
-
----
-
-### **进度日志** 
-
-#### 🌐Ver.5.0.6<SUB>[2023-02-25]</SUB>
-#### [更多历史日志](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/wiki/Design_Log)
 
 ---
 
@@ -75,17 +65,13 @@ EndlessWorld_DarkGemLand-开发手记
 
 ---
 
-## **🧩开发待办**
-
-### **近期**
- - 设置
-#### [更多待办](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/wiki/Design_todo)
+## **🧩开发待办** 
+### **开发**  [👉更多待办](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/wiki/Design_todo)
 
 ---
 
-## **📖产品Wiki** 
-
- - [Wiki](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/wiki/Home)
+## **📖产品Wiki**  
+### **Wiki**  [👉查看Wiki](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/wiki/Home)
 
 ---
 
@@ -114,7 +100,9 @@ EndlessWorld_DarkGemLand-开发手记
 		 - [下载AxInterop.WMPLib.dll](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/Requires/AxInterop.WMPLib.dll)
 		 - [下载Interop.WMPLib.dll](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/Requires/Interop.WMPLib.dll)
 		 - [下载wmp.dll](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/Requires/wmp.dll)
-
+	- Json运行库
+		 - [下载Newtonsoft.Json.dll](https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/Requires/Newtonsoft.Json.dll)
+### `·解决方案`
 #### WINDOWS7系统部分文字缺失问题
 ==解决方案:==
 
@@ -162,10 +150,14 @@ EndlessWorld_DarkGemLand-开发手记
 	 - ![AxInterop.WMPLib.dll size](https://img.shields.io/github/size/UkokuGemini/EndlessWorld_DarkGemLand-Release/Release/AxInterop.WMPLib.dll?color=yellow&label=AxInterop.WMPLib.dll)
 	 - ![Interop.WMPLib.dll size](https://img.shields.io/github/size/UkokuGemini/EndlessWorld_DarkGemLand-Release/Release/Interop.WMPLib.dll?color=yellow&label=Interop.WMPLib.dll)
 	 - ![wmp.dll size](https://img.shields.io/github/size/UkokuGemini/EndlessWorld_DarkGemLand-Release/Release/wmp.dll?color=yellow&label=wmp.dll)
+ -  Json组件 
+ 	 - ![Newtonsoft.Json.dll size](https://img.shields.io/github/size/UkokuGemini/EndlessWorld_DarkGemLand-Release/Release/Newtonsoft.Json.dll?color=yellow&label=Newtonsoft.Json.dll)  
  - AutoUpdate版本更新软件![AutoUpdate-EndlessWorld_DarkGemLand.exe size](https://img.shields.io/github/size/UkokuGemini/EndlessWorld_DarkGemLand-Release/Release/AutoUpdate-EndlessWorld_DarkGemLand.exe?color=yellow&label=AutoUpdate-EndlessWorld_DarkGemLand.exe)
- - 
+ - Uninstall卸载软件![Uninstall-EndlessWorld_DarkGemLand.exe size](https://img.shields.io/github/size/UkokuGemini/EndlessWorld_DarkGemLand-Release/Release/Uninstall-EndlessWorld_DarkGemLand.exe?color=yellow&label=Uninstall-EndlessWorld_DarkGemLand.exe)
+ -  图标文件 
+ 	 - ![EndlessWorld_DarkGemLand.ico size](https://img.shields.io/github/size/UkokuGemini/EndlessWorld_DarkGemLand-Release/Release/EndlessWorld_DarkGemLand.ico?color=yellow&label=EndlessWorld_DarkGemLand.ico)  
+ 	 - ![Uninstall-EndlessWorld_DarkGemLand.ico size](https://img.shields.io/github/size/UkokuGemini/EndlessWorld_DarkGemLand-Release/Release/Uninstall-EndlessWorld_DarkGemLand.ico?color=yellow&label=Uninstall-EndlessWorld_DarkGemLand.ico) 
 ---
-
 ## **🎳特别感谢**
 
 特别感谢以下贡献者：
