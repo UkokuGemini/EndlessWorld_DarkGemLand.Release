@@ -4,3 +4,5 @@
 
 /.vs
 *.bat
+/Release/Log
+/Release/Save
