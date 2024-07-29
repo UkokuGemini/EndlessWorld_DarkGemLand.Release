@@ -6,3 +6,5 @@ Quick.bat
 /.vs
 /Quick Version_Latest.bat
 *.bat
+/Release/Log
+/Release/Save
