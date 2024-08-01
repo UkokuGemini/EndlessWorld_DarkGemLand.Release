@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <UpdateConfig>
 <LatestVersion VersionNum="5.5.1.1"></LatestVersion>
-<PreReleaseVersion VersionNum="5.5.1.4"></PreReleaseVersion>
-<UpdateLatestUrl>
+<PreReleaseVersion VersionNum="5.5.3.1"></PreReleaseVersion>
+<!--🚫--><UpdateLatestUrl><!--老版本Latest仍旧沿用此版本不实装-->
    <EndlessWorld_DarkGemLand.exe Url="https://raw.githubusercontent.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/Version_Latest/Release/EndlessWorld_DarkGemLand.exe"> </EndlessWorld_DarkGemLand.exe>
    <EndlessWorld_DarkGemLand.SysData.db Url="https://raw.githubusercontent.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/Version_Latest/Release/EndlessWorld_DarkGemLand.SysData.db"></EndlessWorld_DarkGemLand.SysData.db>
    <EndlessWorld_DarkGemLand.UserData.db Url="https://raw.githubusercontent.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/Version_Latest/Release/EndlessWorld_DarkGemLand.UserData.db"></EndlessWorld_DarkGemLand.UserData.db>
@@ -17,7 +17,7 @@
    <Uninstall-EndlessWorld_DarkGemLand.ico Url="https://raw.githubusercontent.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/Version_Latest/Release/Uninstall-EndlessWorld_DarkGemLand.ico"></Uninstall-EndlessWorld_DarkGemLand.ico>
    <Uninstall-EndlessWorld_DarkGemLand.exe Url="https://raw.githubusercontent.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/Version_Latest/Release/Uninstall-EndlessWorld_DarkGemLand.exe"></Uninstall-EndlessWorld_DarkGemLand.exe>
 </UpdateLatestUrl>
-<UpdatePreReleaseUrl>
+<!--⭐--><UpdatePreReleaseUrl>
    <EndlessWorld_DarkGemLand.exe Url="https://raw.githubusercontent.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/Version_PreRelease/Release/EndlessWorld_DarkGemLand.exe"> </EndlessWorld_DarkGemLand.exe>
    <EndlessWorld_DarkGemLand.SysData.db Url="https://raw.githubusercontent.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/Version_PreRelease/Release/EndlessWorld_DarkGemLand.SysData.db"></EndlessWorld_DarkGemLand.SysData.db>
    <EndlessWorld_DarkGemLand.UserData.db Url="https://raw.githubusercontent.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/Version_PreRelease/Release/EndlessWorld_DarkGemLand.UserData.db"></EndlessWorld_DarkGemLand.UserData.db>
@@ -32,8 +32,8 @@
    <Uninstall-EndlessWorld_DarkGemLand.ico Url="https://raw.githubusercontent.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/Version_PreRelease/Release/Uninstall-EndlessWorld_DarkGemLand.ico"></Uninstall-EndlessWorld_DarkGemLand.ico>
    <Uninstall-EndlessWorld_DarkGemLand.exe Url="https://raw.githubusercontent.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/Version_PreRelease/Release/Uninstall-EndlessWorld_DarkGemLand.exe"></Uninstall-EndlessWorld_DarkGemLand.exe>
 </UpdatePreReleaseUrl>
-<UpdateMsi>https://raw.githubusercontent.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/Version_Latest/_EndlessWorld_DarkGemLand.msi</UpdateMsi>
-<UpdateLatestUrl-Release>
+<!--🚫--><UpdateMsi>https://raw.githubusercontent.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/Version_Latest/_EndlessWorld_DarkGemLand.msi</UpdateMsi>
+<!--⭐--><UpdateLatestUrl-Release>
    <EndlessWorld_DarkGemLand.exe Url="https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/Version_Latest/EndlessWorld_DarkGemLand.exe"> </EndlessWorld_DarkGemLand.exe>
    <EndlessWorld_DarkGemLand.SysData.db Url="https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/Version_Latest/EndlessWorld_DarkGemLand.SysData.db"></EndlessWorld_DarkGemLand.SysData.db>
    <EndlessWorld_DarkGemLand.UserData.db Url="https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/Version_Latest/EndlessWorld_DarkGemLand.UserData.db"></EndlessWorld_DarkGemLand.UserData.db>
@@ -48,7 +48,7 @@
    <Uninstall-EndlessWorld_DarkGemLand.ico Url="https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/Version_Latest/Uninstall-EndlessWorld_DarkGemLand.ico"></Uninstall-EndlessWorld_DarkGemLand.ico>
    <Uninstall-EndlessWorld_DarkGemLand.exe Url="https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/Version_Latest/Uninstall-EndlessWorld_DarkGemLand.exe"></Uninstall-EndlessWorld_DarkGemLand.exe>
 </UpdateLatestUrl-Release>
-<UpdatePreReleaseUrl-Release>
+<!--🚫--><UpdatePreReleaseUrl-Release><!--此为老版本PreRelease,不手动更新,新的测试版文件下载地址改到Raw途径-->
    <EndlessWorld_DarkGemLand.exe Url="https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/Version_PreRelease/EndlessWorld_DarkGemLand.exe"> </EndlessWorld_DarkGemLand.exe>
    <EndlessWorld_DarkGemLand.SysData.db Url="https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/Version_PreRelease/EndlessWorld_DarkGemLand.SysData.db"></EndlessWorld_DarkGemLand.SysData.db>
    <EndlessWorld_DarkGemLand.UserData.db Url="https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/Version_PreRelease/EndlessWorld_DarkGemLand.UserData.db"></EndlessWorld_DarkGemLand.UserData.db>
@@ -63,9 +63,8 @@
    <Uninstall-EndlessWorld_DarkGemLand.ico Url="https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/Version_PreRelease/Uninstall-EndlessWorld_DarkGemLand.ico"></Uninstall-EndlessWorld_DarkGemLand.ico>
    <Uninstall-EndlessWorld_DarkGemLand.exe Url="https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/Version_PreRelease/Uninstall-EndlessWorld_DarkGemLand.exe"></Uninstall-EndlessWorld_DarkGemLand.exe>
 </UpdatePreReleaseUrl-Release>
-<UpdateMsi-Release>https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/LatestVersion_Setup/_EndlessWorld_DarkGemLand.msi</UpdateMsi-Release>
+<!--🚫--><UpdateMsi-Release>https://github.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/releases/download/LatestVersion_Setup/_EndlessWorld_DarkGemLand.msi</UpdateMsi-Release>
 <UpdateLog>
-
    <Version Num="5.0.0.904" Date="2023-01-11">
       <File Name="EndlessWorld_DarkGemLand.exe"></File>
       <File Name="EndlessWorld_DarkGemLand.SysData.db"></File>
@@ -215,6 +214,11 @@
    </Version>
    
    <Version Num="5.5.1.4" Date="2024-07-28">
+      <File Name="EndlessWorld_DarkGemLand.exe"></File>
+      <File Name="EndlessWorld_DarkGemLand.SysData.db"></File>
+      <File Name="EndlessWorld_DarkGemLand.UserData.db"></File>
+   
+   <Version Num="5.5.3.1" Date="2024-07-30">
       <File Name="EndlessWorld_DarkGemLand.exe"></File>
       <File Name="EndlessWorld_DarkGemLand.SysData.db"></File>
       <File Name="EndlessWorld_DarkGemLand.UserData.db"></File>
