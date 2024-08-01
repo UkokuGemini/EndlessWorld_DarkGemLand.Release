@@ -1,10 +1,7 @@
-Release/EndlessWorld_DarkGemLand-GameKey.Xml
-Release/EndlessWorld_DarkGemLand.exe.config
-Release/EndlessWorld_DarkGemLand.pdb
-Quick.bat
-/.vs/EndlessWorld_DarkGemLand-Release/FileContentIndex
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
 /.vs
-/Quick Version_Latest.bat
-*.bat
 /Release/Log
 /Release/Save
